@@ -1,14 +1,14 @@
 # **SORTED ARRAYS**
 
-# Information
+## INFORMATION
 
 * **Program to find repeating even numbers in arrays.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * Number, array, and i variables are declared with int.
 
@@ -18,9 +18,7 @@
 
 * Definitions are created for the user to enter the size of the array and the elements of the array.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -87,13 +85,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/SortedArrays.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
